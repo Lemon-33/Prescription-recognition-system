@@ -1,0 +1,8 @@
+python3.8 server.py --port=7000 --itcast=python,c++,java,php,ios
+
+html and exe different:
+index.py
+1 register get
+2 login get
+3 register get_argument(???)
+4 SaveHandler get
